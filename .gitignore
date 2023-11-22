@@ -7,5 +7,8 @@ __pycache__/
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Data
-data/
+# Dataset
+data/test_images/
+data/train_images/
+data/sample_submission.csv
+data/train.csv
